@@ -78,27 +78,24 @@ Follow the [submission guidelines](./submissions/README.md) to submit your work.
 
 ## 🎯 Scoring
 
-This lab uses a comprehensive scoring system:
-- **Base Score:** 60 points (core competencies)
-- **Bonus Points:** 40 points (depth and insight)
-- **Quality Standards:** Professional work expected
+This lab uses a comprehensive scoring system with transparent evaluation criteria. All candidates receive detailed feedback on their submissions, highlighting strengths and areas for improvement.
 
-See [`evaluation/rubric.md`](./evaluation/rubric.md) for details.
+**Scoring approach:**
+- Evidence-based assessment
+- Professional work standards
+- Focus on approach and reasoning over "perfect" answers
 
 ## 🔒 Privacy Options
 
-This is an **open-source lab** with two submission options:
+This is an **open-source lab** with transparent submission via GitHub:
 
-### Option 1: Public Submission (Recommended)
+### Public Submission via Pull Request
 - Fork this repo and submit via Pull Request
 - Your work becomes part of your public portfolio
 - Great for showcasing skills to other employers
+- Evaluation process is visible but scores remain confidential
 
-### Option 2: Private Submission
-- Email your submission to: `security-hiring@acme.com`
-- Reviewed privately with no public visibility
-
-**Note:** Only submissions are public; evaluation scores remain confidential.
+**Note:** All submissions are reviewed with the same evaluation standards.
 
 ## ❓ FAQ
 
@@ -115,7 +112,7 @@ A: Take the time you need. We value quality over speed. Work at your own pace.
 A: No. We evaluate your approach, reasoning, and professionalism. Multiple solutions are valid.
 
 **Q: Can I ask questions during the lab?**  
-A: Yes! Open an [issue](../../issues) with the `question` label, or email us.
+A: Yes! Open an [issue](../../issues) with the `question` label.
 
 **Q: What tools should I use?**  
 A: Use whatever you're comfortable with. Excel, Python, grep, text editors - all are fine. We evaluate your analysis, not your tools.
@@ -137,12 +134,6 @@ A: Yes, all candidates receive feedback highlighting strengths and areas for imp
 
 **Q: Can I include this in my portfolio?**  
 A: Absolutely! If you submit publicly, it's already part of your GitHub portfolio. Even private submissions can be referenced (without sharing materials).
-
-## 📧 Contact
-
-- **Technical questions:** Open an [issue](../../issues)
-- **Private inquiries:** security-hiring@acme.com
-- **Submission problems:** Same email
 
 ---
 
